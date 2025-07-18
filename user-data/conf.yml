@@ -27,7 +27,6 @@
   language: cn
 pageInfo:
   title: putX
-  description: 
   footerText: Copyright © 2025 指南网.保留所有权利 粤ICP备17019608号-2
 sections:
   - name: Code Analysis & Monitoring

@@ -1,4 +1,7 @@
 {
+  "engines": {
+    "node": "17.x"
+  },
   "name": "dashy",
   "version": "3.1.1",
   "license": "MIT",

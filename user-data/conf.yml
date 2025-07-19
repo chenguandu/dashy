@@ -16,7 +16,7 @@ appConfig:
     searchEngine: duckduckgo
     openingMethod: newtab
   enableErrorReporting: true
-  allowConfigEdit: false
+  allowConfigEdit: true
   enableFontAwesome: true
   fontAwesomeKey: 2e949c5bf4
   faviconApi: allesedv
